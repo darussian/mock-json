@@ -1,0 +1,141 @@
+{
+  "choice_user": {
+    "name": "Jane Doe",
+    "mychoice_id": "IS001213641",
+    "tier_rank": "CHOICE",
+    "tier_points": 500,
+    "my_cash_balance": 5000.21,
+    "points_until_next_tier": 500,
+    "next_tier_status": "ADVANTAGE",
+    "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true"
+  },
+  "advantage_user": {
+    "name": "Jane Doe",
+    "mychoice_id": "IS001213641",
+    "tier_rank": "ADVANTAGE",
+    "tier_points": 1200,
+    "my_cash_balance": 5000.21,
+    "points_until_next_tier": 800,
+    "next_tier_status": "PREFERRED",
+    "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true"
+  },
+  "preferred_user": {
+    "name": "Jane Doe",
+    "mychoice_id": "IS001213641",
+    "tier_rank": "PREFERREED",
+    "tier_points": 2100,
+    "my_cash_balance": 5000.21,
+    "points_until_next_tier": 900,
+    "next_tier_status": "ELITE",
+    "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true"
+  },
+   "elite_user": {
+    "name": "Jane Doe",
+    "mychoice_id": "IS001213641",
+    "tier_rank": "ELITE",
+    "tier_points": 3500,
+    "my_cash_balance": 5000.21,
+    "points_until_next_tier": 500,
+    "next_tier_status": "OWNERS_CHOICE",
+    "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true"
+  },
+  "owners_choice_user": {
+    "name": "Jane Doe",
+    "mychoice_id": "IS001213641",
+    "tier_rank": "ELITE",
+    "tier_points": 4800,
+    "my_cash_balance": 5000.21,
+    "points_until_next_tier": 200,
+    "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true"
+  },
+  "mychoice_data": {
+    "explore": {
+        "image_url": "https://assets.foxdcg.com/dpp-uploaded/images/bobs-burgers/BB_101L.jpg",
+        "image_url_mobile": "https://assets.foxdcg.com/dpp-uploaded/images/bobs-burgers/BB_101L.jpg",
+        "cta_link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "cta_label": "Explore"
+    },
+    "tiers": [
+      {
+        "name": "Choice",
+        "tier_rank": "CHOICE",
+        "tier_order": 1,
+        "points_floor": 0,
+        "points_ceiling": 1000,
+        "benefits": [
+          {
+            "section": "Gaming",
+            "bullets": [
+              "Special offers and promotions",
+              "Redeem mycash® for Free SlotPlay"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Advantage",
+        "tier_order": 1,
+        "tier_rank": "ADVANTAGE",
+        "points_floor": 1000,
+        "points_ceiling": 2000,
+        "benefits": [
+          {
+            "section": "Gaming",
+            "bullets": [
+              "Special offers and promotions",
+              "Redeem mycash® for Free SlotPlay"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Preferred",
+        "tier_rank": "PREFERRED",
+        "tier_order": 1,
+        "points_floor": 2000,
+        "pointsCeiling": 3000,
+        "benefits": [
+          {
+            "section": "Gaming",
+            "bullets": [
+              "Special offers and promotions",
+              "Redeem mycash® for Free SlotPlay"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Elite",
+        "tier_rank": "ELITE",
+        "tier_order": 1,
+        "points_floor": 3000,
+        "points_ceiling": 4000,
+        "benefits": [
+          {
+            "section": "Gaming",
+            "bullets": [
+              "Special offers and promotions",
+              "Redeem mycash® for Free SlotPlay"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Owner's Choice",
+        "tier_rank": "OWNERS_CHOICE",
+        "tier_order": 1,
+        "points_floor": 4000,
+        "points_ceiling": 5000,
+        "benefits": [
+          {
+            "section": "Gaming",
+            "bullets": [
+              "Special offers and promotions",
+              "Redeem mycash® for Free SlotPlay"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
