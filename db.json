@@ -42,7 +42,7 @@
   "owners_choice_user": {
     "name": "Jane Doe",
     "mychoice_id": "IS001213641",
-    "tier_rank": "ELITE",
+    "tier_rank": "OWNERS_CHOICE",
     "tier_points": 4800,
     "my_cash_balance": 5000.21,
     "points_until_next_tier": 200,
