@@ -9,7 +9,6 @@
     "next_tier_status": "ADVANTAGE",
     "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true"
   },
-  "test": {},
   "advantage_user": {
     "name": "Jane Doe",
     "mychoice_id": "IS001213641",
@@ -49,7 +48,8 @@
     "points_until_next_tier": 200,
     "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true"
   },
-  "mychoice_data": {
+  "mychoice_data": {  
+  "test": {},
     "explore": {
         "image_url": "https://assets.foxdcg.com/dpp-uploaded/images/bobs-burgers/BB_101L.jpg",
         "image_url_mobile": "https://assets.foxdcg.com/dpp-uploaded/images/bobs-burgers/BB_101L.jpg",
