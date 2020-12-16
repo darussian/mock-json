@@ -48,8 +48,7 @@
     "points_until_next_tier": 200,
     "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true"
   },
-  "mychoice_data": {  
-  "test": {},
+  "mychoice_data": { 
     "explore": {
         "image_url": "https://assets.foxdcg.com/dpp-uploaded/images/bobs-burgers/BB_101L.jpg",
         "image_url_mobile": "https://assets.foxdcg.com/dpp-uploaded/images/bobs-burgers/BB_101L.jpg",
