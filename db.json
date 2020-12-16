@@ -9,6 +9,7 @@
     "next_tier_status": "ADVANTAGE",
     "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true"
   },
+  "test": {},
   "advantage_user": {
     "name": "Jane Doe",
     "mychoice_id": "IS001213641",
