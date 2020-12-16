@@ -93,7 +93,7 @@
         "tier_rank": "PREFERRED",
         "tier_order": 1,
         "points_floor": 2000,
-        "pointsCeiling": 3000,
+        "points_ceiling": 3000,
         "benefits": [
           {
             "section": "Gaming",
