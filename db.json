@@ -68,7 +68,28 @@
               "Special offers and promotions",
               "Redeem mycash® for Free SlotPlay"
             ]
-          }
+          },
+          {
+            "section": "Sam Hamburger",
+            "bullets": [
+              "Is a fantastic developer",
+              "Lives in the mountains"
+            ]
+          },
+          {
+            "section": "Marty",
+            "bullets": [
+              "Does a great job at the codez",
+              "random second bullet"
+            ]
+          },
+          {
+            "section": "Dmitriy",
+            "bullets": [
+              "Sometimes tries to do android development",
+              "is tired of my choice"
+            ]
+          }          
         ]
       },
       {
