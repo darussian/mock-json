@@ -3,10 +3,9 @@
     "name": "Jane Doe",
     "mychoice_id": "IS001213641",
     "tier_rank": "CHOICE",
-    "tier_points": 500,
+    "tier_points": 500.01,
     "my_cash_balance": 5000.21,
     "points_until_next_tier": 500,
-    "next_tier_status": "ADVANTAGE",
     "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true",
     "currentTier": {
       "name": "Choice",
