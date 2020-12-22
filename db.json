@@ -145,7 +145,6 @@
         "tier_rank": "OWNERS_CLUB",
         "tier_order": 1,
         "points_floor": 4000,
-        "points_ceiling": 5000,
         "benefits": [
           {
             "section": "Gaming",
