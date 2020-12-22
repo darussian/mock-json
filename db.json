@@ -7,7 +7,21 @@
     "my_cash_balance": 5000.21,
     "points_until_next_tier": 500,
     "next_tier_status": "ADVANTAGE",
-    "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true"
+    "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true",
+    "currentTier": {
+      "name": "Choice",
+      "tier_rank": "CHOICE",
+      "tier_order": 1,
+      "points_floor": 0,
+      "points_ceiling": 1000
+     },
+    "nextTier": {
+      "name": "Advantage",
+      "tier_rank": "ADVANTAGE",
+      "tier_order": 2,
+      "points_floor": 1000,
+      "points_ceiling": 2000
+    }
   },
   "advantage_user": {
     "name": "Jane Doe",
