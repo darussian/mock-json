@@ -176,7 +176,7 @@
         "incident_id": "432593fd-6c1c-428b-8e45-0d6299a2b786",
         "incident_type": "outage",
         "start_ts": 1605630324,
-        "consumers": ["AND", "iOS"],
+        "consumers": ["and", "ios", "www"],
         "states": ["PA"],
         "end_ts": 1605638100,
         "messages": [
