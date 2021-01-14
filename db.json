@@ -175,7 +175,6 @@
       {
         "incident_id": "432593fd-6c1c-428b-8e45-0d6299a2b786",
         "incident_type": "outage",
-        "status_text": "We’re investigating an issue",
         "start_ts": 1605630324,
         "consumers": ["and", "ios", "www"],
         "states": ["PA"],
