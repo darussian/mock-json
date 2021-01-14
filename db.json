@@ -193,13 +193,6 @@
            "message_ts": 1605630900,
            "header": "Investigating issue",
            "body": "We're still looking into an issue place bets."
-          },
-          {
-           "status": "resolved",
-           "status_text": "We recently fixed a system issue",
-           "message_ts": 1605637800,
-           "header": "Bet placement fixed",
-           "body": "Bet placement issues have been fixed. There was an issue with a third party provider."      
           }
         ]  
       }
