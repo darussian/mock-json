@@ -178,6 +178,7 @@
         "start_ts": 1605630324,
         "consumers": ["and", "ios", "www"],
         "states": ["PA"],
+        "status_text": "We're experiencing issues",  
         "end_ts": 1605638100,
         "messages": [
           {
