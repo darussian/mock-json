@@ -189,7 +189,7 @@
            "body": "We're aware of an issue placing bets, and are working to resolve it as soon as possible. For more information <a href='https://go.to/zendesk/link'>click here</a>."
           },
           {
-           "status": "investigating",
+           "status": "investigation",
            "message_ts": 1605630900,
            "header": "Investigating issue",
            "status_text": "We're experiencing issues",   
