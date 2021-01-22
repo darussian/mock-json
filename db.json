@@ -184,7 +184,7 @@
             "states":[
                "PA"
             ],
-            "status_text":"We're experiencing issues",
+            "status_text":"We have identified the issue",
             "end_ts":1605638100,
             "messages":[
                {
@@ -247,7 +247,7 @@
             "states":[
                "PA"
             ],
-            "status_text":"We're experiencing issues",
+            "status_text":"Issue has been resolved",
             "end_ts":1605638100,
             "messages":[
                {
