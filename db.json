@@ -1,260 +1,281 @@
 {
-  "choice_user": {
-    "name": "Jane Doe",
-    "mychoice_id": "IS001213641",
-    "tier_rank": "CHOICE",
-    "tier_points": 500,
-    "my_cash_balance": 5000.21,
-    "points_until_next_tier": 500,
-    "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true",
-    "currentTier": {
-      "name": "Choice",
-      "tier_rank": "CHOICE",
-      "tier_order": 1,
-      "points_floor": 0,
-      "points_ceiling": 1000
-     },
-    "nextTier": {
-      "name": "Advantage",
-      "tier_rank": "ADVANTAGE",
-      "tier_order": 2,
-      "points_floor": 1000,
-      "points_ceiling": 2000
-    }
-  },
-  "advantage_user": {
-    "name": "Jane Doe",
-    "mychoice_id": "IS001213641",
-    "tier_rank": "ADVANTAGE",
-    "tier_points": 1200,
-    "my_cash_balance": 5000.21,
-    "points_until_next_tier": 800,
-    "next_tier_status": "PREFERRED",
-    "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true"
-  },
-  "preferred_user": {
-    "name": "Jane Doe",
-    "mychoice_id": "IS001213641",
-    "tier_rank": "PREFERRED",
-    "tier_points": 2100,
-    "my_cash_balance": 5000.21,
-    "points_until_next_tier": 900,
-    "next_tier_status": "ELITE",
-    "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true"
-  },
-   "elite_user": {
-    "name": "Jane Doe",
-    "mychoice_id": "IS001213641",
-    "tier_rank": "ELITE",
-    "tier_points": 3500,
-    "my_cash_balance": 5000.21,
-    "points_until_next_tier": 500,
-    "next_tier_status": "OWNERS_CLUB",
-    "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true"
-  },
-  "owners_choice_user": {
-    "name": "Jane Doe",
-    "mychoice_id": "IS001213641",
-    "tier_rank": "OWNERS_CLUB",
-    "tier_points": 4800,
-    "my_cash_balance": 5000.21,
-    "mychoice_mall_cta_url": "https://www.mychoice.com/?login=true"
-  },
-  "mychoice_data": { 
-    "explore": {
-        "image_url": "https://assets.foxdcg.com/dpp-uploaded/images/bobs-burgers/BB_101L.jpg",
-        "image_url_mobile": "https://assets.foxdcg.com/dpp-uploaded/images/bobs-burgers/BB_101L.jpg",
-        "cta_link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "cta_label": "Explore"
-    },
-    "tiers": [
-      {
-        "name": "Choice",
-        "tier_rank": "CHOICE",
-        "tier_order": 1,
-        "points_floor": 0,
-        "points_ceiling": 1000,
-        "benefits": [
-          {
-            "section": "Gaming",
-            "bullets": [
-              "Special offers and promotions",
-              "Redeem mycash® for Free SlotPlay"
-            ]
-          },
-          {
-            "section": "Sam Hamburger",
-            "bullets": [
-              "Is a fantastic developer",
-              "Lives in the mountains"
-            ]
-          },
-          {
-            "section": "Marty",
-            "bullets": [
-              "Does a great job at the codez",
-              "random second bullet"
-            ]
-          },
-          {
-            "section": "Dmitriy",
-            "bullets": [
-              "Sometimes tries to do android development",
-              "is tired of my choice"
-            ]
-          }          
-        ]
+   "choice_user":{
+      "name":"Jane Doe",
+      "mychoice_id":"IS001213641",
+      "tier_rank":"CHOICE",
+      "tier_points":500,
+      "my_cash_balance":5000.21,
+      "points_until_next_tier":500,
+      "mychoice_mall_cta_url":"https://www.mychoice.com/?login=true",
+      "currentTier":{
+         "name":"Choice",
+         "tier_rank":"CHOICE",
+         "tier_order":1,
+         "points_floor":0,
+         "points_ceiling":1000
       },
-      {
-        "name": "Advantage",
-        "tier_order": 1,
-        "tier_rank": "ADVANTAGE",
-        "points_floor": 1000,
-        "points_ceiling": 2000,
-        "benefits": [
-          {
-            "section": "Gaming",
-            "bullets": [
-              "Special offers and promotions",
-              "Redeem mycash® for Free SlotPlay"
-            ]
-          }
-        ]
+      "nextTier":{
+         "name":"Advantage",
+         "tier_rank":"ADVANTAGE",
+         "tier_order":2,
+         "points_floor":1000,
+         "points_ceiling":2000
+      }
+   },
+   "advantage_user":{
+      "name":"Jane Doe",
+      "mychoice_id":"IS001213641",
+      "tier_rank":"ADVANTAGE",
+      "tier_points":1200,
+      "my_cash_balance":5000.21,
+      "points_until_next_tier":800,
+      "next_tier_status":"PREFERRED",
+      "mychoice_mall_cta_url":"https://www.mychoice.com/?login=true"
+   },
+   "preferred_user":{
+      "name":"Jane Doe",
+      "mychoice_id":"IS001213641",
+      "tier_rank":"PREFERRED",
+      "tier_points":2100,
+      "my_cash_balance":5000.21,
+      "points_until_next_tier":900,
+      "next_tier_status":"ELITE",
+      "mychoice_mall_cta_url":"https://www.mychoice.com/?login=true"
+   },
+   "elite_user":{
+      "name":"Jane Doe",
+      "mychoice_id":"IS001213641",
+      "tier_rank":"ELITE",
+      "tier_points":3500,
+      "my_cash_balance":5000.21,
+      "points_until_next_tier":500,
+      "next_tier_status":"OWNERS_CLUB",
+      "mychoice_mall_cta_url":"https://www.mychoice.com/?login=true"
+   },
+   "owners_choice_user":{
+      "name":"Jane Doe",
+      "mychoice_id":"IS001213641",
+      "tier_rank":"OWNERS_CLUB",
+      "tier_points":4800,
+      "my_cash_balance":5000.21,
+      "mychoice_mall_cta_url":"https://www.mychoice.com/?login=true"
+   },
+   "mychoice_data":{
+      "explore":{
+         "image_url":"https://assets.foxdcg.com/dpp-uploaded/images/bobs-burgers/BB_101L.jpg",
+         "image_url_mobile":"https://assets.foxdcg.com/dpp-uploaded/images/bobs-burgers/BB_101L.jpg",
+         "cta_link":"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+         "cta_label":"Explore"
       },
-      {
-        "name": "Preferred",
-        "tier_rank": "PREFERRED",
-        "tier_order": 1,
-        "points_floor": 2000,
-        "points_ceiling": 3000,
-        "benefits": [
-          {
-            "section": "Gaming",
-            "bullets": [
-              "Special offers and promotions",
-              "Redeem mycash® for Free SlotPlay"
+      "tiers":[
+         {
+            "name":"Choice",
+            "tier_rank":"CHOICE",
+            "tier_order":1,
+            "points_floor":0,
+            "points_ceiling":1000,
+            "benefits":[
+               {
+                  "section":"Gaming",
+                  "bullets":[
+                     "Special offers and promotions",
+                     "Redeem mycash® for Free SlotPlay"
+                  ]
+               },
+               {
+                  "section":"Sam Hamburger",
+                  "bullets":[
+                     "Is a fantastic developer",
+                     "Lives in the mountains"
+                  ]
+               },
+               {
+                  "section":"Marty",
+                  "bullets":[
+                     "Does a great job at the codez",
+                     "random second bullet"
+                  ]
+               },
+               {
+                  "section":"Dmitriy",
+                  "bullets":[
+                     "Sometimes tries to do android development",
+                     "is tired of my choice"
+                  ]
+               }
             ]
-          }
-        ]
-      },
-      {
-        "name": "Elite",
-        "tier_rank": "ELITE",
-        "tier_order": 1,
-        "points_floor": 3000,
-        "points_ceiling": 4000,
-        "benefits": [
-          {
-            "section": "Gaming",
-            "bullets": [
-              "Special offers and promotions",
-              "Redeem mycash® for Free SlotPlay"
+         },
+         {
+            "name":"Advantage",
+            "tier_order":1,
+            "tier_rank":"ADVANTAGE",
+            "points_floor":1000,
+            "points_ceiling":2000,
+            "benefits":[
+               {
+                  "section":"Gaming",
+                  "bullets":[
+                     "Special offers and promotions",
+                     "Redeem mycash® for Free SlotPlay"
+                  ]
+               }
             ]
-          }
-        ]
-      },
-      {
-        "name": "Owners Club",
-        "tier_rank": "OWNERS_CLUB",
-        "tier_order": 1,
-        "points_floor": 4000,
-        "benefits": [
-          {
-            "section": "Gaming",
-            "bullets": [
-              "Special offers and promotions",
-              "Redeem mycash® for Free SlotPlay"
+         },
+         {
+            "name":"Preferred",
+            "tier_rank":"PREFERRED",
+            "tier_order":1,
+            "points_floor":2000,
+            "points_ceiling":3000,
+            "benefits":[
+               {
+                  "section":"Gaming",
+                  "bullets":[
+                     "Special offers and promotions",
+                     "Redeem mycash® for Free SlotPlay"
+                  ]
+               }
             ]
-          }
-        ]
-      }
-    ]
-  },
-  "provider_down": {
-    "incidents": [
-      {
-        "incident_id": "432593fd-6c1c-428b-8e45-0d6299a2b786",
-        "incident_type": "outage",
-        "start_ts": 1605630324,
-        "consumers": ["and", "ios", "www"],
-        "states": ["PA"],
-        "status_text": "We're experiencing issues",  
-        "end_ts": 1605638100,
-        "messages": [
-          {
-           "status": "open",
-           "status_text": "We're experiencing issues",      
-           "message_ts": 1605630600,
-           "header": "Bet placement down",
-           "body": "We're aware of an issue placing bets, and are working to resolve it as soon as possible. For more information <a href='https://go.to/zendesk/link'>click here</a>."
-          },
-          {
-           "status": "investigation",
-           "message_ts": 1605630900,
-           "header": "Investigating issue",
-           "status_text": "We're experiencing issues",   
-           "body": "We're still looking into an issue place bets."
-          }
-        ]  
-      }
-    ]
-  },
-   "provider_down_open": {
-    "incidents": [
-      {
-        "incident_id": "432593fd-6c1c-428b-8e45-0d6299a2b786",
-        "incident_type": "outage",
-        "start_ts": 1605630324,
-        "consumers": ["and", "ios", "www"],
-        "states": ["PA"],
-        "status_text": "We're experiencing issues",  
-        "end_ts": 1605638100,
-        "messages": [
-          {
-           "status": "open",
-           "status_text": "We're experiencing issues",      
-           "message_ts": 1605630600,
-           "header": "Bet placement down",
-           "body": "We're aware of an issue placing bets, and are working to resolve it as soon as possible. For more information <a href='https://go.to/zendesk/link'>click here</a>."
-          }
-        ]  
-      }
-    ]
-  },
-  "provider_down_resolved": {
-    "incidents": [
-      {
-        "incident_id": "432593fd-6c1c-428b-8e45-0d6299a2b786",
-        "incident_type": "outage",
-        "start_ts": 1605630324,
-        "consumers": ["and", "ios", "www"],
-        "states": ["PA"],
-        "status_text": "We're experiencing issues",  
-        "end_ts": 1605638100,
-        "messages": [
-          {
-           "status": "open",
-           "status_text": "We're experiencing issues",      
-           "message_ts": 1605630600,
-           "header": "Bet placement down",
-           "body": "We're aware of an issue placing bets, and are working to resolve it as soon as possible. For more information <a href='https://go.to/zendesk/link'>click here</a>."
-          },
-          {
-           "status": "investigation",
-           "message_ts": 1605630900,
-           "header": "Investigating issue",
-           "status_text": "We're experiencing issues",   
-           "body": "We're still looking into an issue place bets."
-          },
-          {
-           "status": "resolved",
-           "message_ts": 1605630900,
-           "header": "Resolved",
-           "status_text": "Issue has been resolved",   
-           "body": "Everything resolved!"
-          }
-        ]  
-      }
-    ]
-  }
+         },
+         {
+            "name":"Elite",
+            "tier_rank":"ELITE",
+            "tier_order":1,
+            "points_floor":3000,
+            "points_ceiling":4000,
+            "benefits":[
+               {
+                  "section":"Gaming",
+                  "bullets":[
+                     "Special offers and promotions",
+                     "Redeem mycash® for Free SlotPlay"
+                  ]
+               }
+            ]
+         },
+         {
+            "name":"Owners Club",
+            "tier_rank":"OWNERS_CLUB",
+            "tier_order":1,
+            "points_floor":4000,
+            "benefits":[
+               {
+                  "section":"Gaming",
+                  "bullets":[
+                     "Special offers and promotions",
+                     "Redeem mycash® for Free SlotPlay"
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   "provider_down":{
+      "incidents":[
+         {
+            "incident_id":"432593fd-6c1c-428b-8e45-0d6299a2b786",
+            "incident_type":"outage",
+            "start_ts":1605630324,
+            "consumers":[
+               "and",
+               "ios",
+               "www"
+            ],
+            "states":[
+               "PA"
+            ],
+            "status_text":"We're experiencing issues",
+            "end_ts":1605638100,
+            "messages":[
+               {
+                  "status":"open",
+                  "status_text":"We're experiencing issues",
+                  "message_ts":1605630600,
+                  "header":"Bet placement down",
+                  "body":"We're aware of an issue placing bets, and are working to resolve it as soon as possible. For more information <a href='https://go.to/zendesk/link'>click here</a>."
+               },
+               {
+                  "status":"investigation",
+                  "message_ts":1605630900,
+                  "header":"Investigating issue",
+                  "status_text":"We're experiencing issues",
+                  "body":"We're still looking into an issue place bets."
+               }
+            ]
+         }
+      ]
+   },
+   "provider_down_open":{
+      "incidents":[
+         {
+            "incident_id":"432593fd-6c1c-428b-8e45-0d6299a2b786",
+            "incident_type":"outage",
+            "start_ts":1605630324,
+            "consumers":[
+               "and",
+               "ios",
+               "www"
+            ],
+            "states":[
+               "PA"
+            ],
+            "status_text":"We're experiencing issues",
+            "end_ts":1605638100,
+            "messages":[
+               {
+                  "status":"open",
+                  "status_text":"We're experiencing issues",
+                  "message_ts":1605630600,
+                  "header":"Bet placement down",
+                  "body":"We're aware of an issue placing bets, and are working to resolve it as soon as possible. For more information <a href='https://go.to/zendesk/link'>click here</a>."
+               }
+            ]
+         }
+      ]
+   },
+   "provider_down_resolved":{
+      "incidents":[
+         {
+            "incident_id":"432593fd-6c1c-428b-8e45-0d6299a2b786",
+            "incident_type":"outage",
+            "start_ts":1605630324,
+            "consumers":[
+               "and",
+               "ios",
+               "www"
+            ],
+            "states":[
+               "PA"
+            ],
+            "status_text":"We're experiencing issues",
+            "end_ts":1605638100,
+            "messages":[
+               {
+                  "status":"open",
+                  "status_text":"We're experiencing issues",
+                  "message_ts":1605630600,
+                  "header":"Bet placement down",
+                  "body":"We're aware of an issue placing bets, and are working to resolve it as soon as possible. For more information <a href='https://go.to/zendesk/link'>click here</a>."
+               },
+               {
+                  "status":"investigation",
+                  "message_ts":1605630900,
+                  "header":"Investigating issue",
+                  "status_text":"We're experiencing issues",
+                  "body":"We're still looking into an issue place bets."
+               },
+               {
+                  "status":"resolved",
+                  "message_ts":1605630900,
+                  "header":"Resolved",
+                  "status_text":"Issue has been resolved",
+                  "body":"Everything resolved!"
+               }
+            ]
+         }
+      ]
+   },
+  "provider_down_none":{
+      "incidents":[]
+   }
 }
