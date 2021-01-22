@@ -198,5 +198,63 @@
         ]  
       }
     ]
+  },
+   "provider_down_open": {
+    "incidents": [
+      {
+        "incident_id": "432593fd-6c1c-428b-8e45-0d6299a2b786",
+        "incident_type": "outage",
+        "start_ts": 1605630324,
+        "consumers": ["and", "ios", "www"],
+        "states": ["PA"],
+        "status_text": "We're experiencing issues",  
+        "end_ts": 1605638100,
+        "messages": [
+          {
+           "status": "open",
+           "status_text": "We're experiencing issues",      
+           "message_ts": 1605630600,
+           "header": "Bet placement down",
+           "body": "We're aware of an issue placing bets, and are working to resolve it as soon as possible. For more information <a href='https://go.to/zendesk/link'>click here</a>."
+          }
+        ]  
+      }
+    ]
+  },
+  "provider_down_resolved": {
+    "incidents": [
+      {
+        "incident_id": "432593fd-6c1c-428b-8e45-0d6299a2b786",
+        "incident_type": "outage",
+        "start_ts": 1605630324,
+        "consumers": ["and", "ios", "www"],
+        "states": ["PA"],
+        "status_text": "We're experiencing issues",  
+        "end_ts": 1605638100,
+        "messages": [
+          {
+           "status": "open",
+           "status_text": "We're experiencing issues",      
+           "message_ts": 1605630600,
+           "header": "Bet placement down",
+           "body": "We're aware of an issue placing bets, and are working to resolve it as soon as possible. For more information <a href='https://go.to/zendesk/link'>click here</a>."
+          },
+          {
+           "status": "investigation",
+           "message_ts": 1605630900,
+           "header": "Investigating issue",
+           "status_text": "We're experiencing issues",   
+           "body": "We're still looking into an issue place bets."
+          },
+          {
+           "status": "resolved",
+           "message_ts": 1605630900,
+           "header": "Resolved",
+           "status_text": "Issue has been resolved",   
+           "body": "Everything resolved!"
+          }
+        ]  
+      }
+    ]
   }
 }
