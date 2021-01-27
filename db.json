@@ -262,7 +262,7 @@
                "PA"
             ],
             "status_text":"Issue has been resolved",
-            "end_ts":1611771446,
+            "end_ts":1611771772,
             "messages":[
                {
                   "status":"open",
@@ -280,7 +280,7 @@
                },
                {
                   "status":"resolved",
-                  "message_ts":1611771446,
+                  "message_ts":1611771772,
                   "header":"Resolved",
                   "status_text":"Issue has been resolved",
                   "body":"Everything resolved!"
