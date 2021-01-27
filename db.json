@@ -200,6 +200,20 @@
                   "header":"Investigating issue",
                   "status_text":"We're experiencing issues",
                   "body":"We're still looking into an issue place bets."
+               },
+                              {
+                  "status":"investigation",
+                  "message_ts":1605630901,
+                  "header":"Still Investigating issue",
+                  "status_text":"We're experiencing issues",
+                  "body":"We're still looking into an issue place bets."
+               },
+                              {
+                  "status":"investigation",
+                  "message_ts":1605630902,
+                  "header":"Still Still Investigating issue",
+                  "status_text":"We're experiencing issues",
+                  "body":"We're still looking into an issue place bets."
                }
             ]
          }
@@ -266,7 +280,7 @@
                },
                {
                   "status":"resolved",
-                  "message_ts":1605630900,
+                  "message_ts":1611770126,
                   "header":"Resolved",
                   "status_text":"Issue has been resolved",
                   "body":"Everything resolved!"
