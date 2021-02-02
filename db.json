@@ -252,7 +252,7 @@
          {
             "incident_id":"432593fd-6c1c-428b-8e45-0d6299a2b786",
             "incident_type":"outage",
-            "start_ts":1612292877,
+            "start_ts":1612293038,
             "consumers":[
                "and",
                "ios",
@@ -262,7 +262,7 @@
                "PA"
             ],
             "status_text":"Issue has been resolved",
-            "end_ts":1612291820,
+            "end_ts":1612293039,
             "messages":[
                {
                   "status":"open",
@@ -280,7 +280,7 @@
                },
                {
                   "status":"resolved",
-                  "message_ts":1612292877,
+                  "message_ts":1612293038,
                   "header":"Resolved",
                   "status_text":"Issue has been resolved",
                   "body":"Everything resolved!"
